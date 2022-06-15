@@ -1,0 +1,6 @@
+Changes done in this Version 3.0 :
+1. Gallery Content Modified [Done]
+2. A New Add-On in Achievements [Done]
+3. New Projects Layout [Done]
+4. Gallery - Last Section [Done]
+5. Blog - Orientation Changed [Done]
