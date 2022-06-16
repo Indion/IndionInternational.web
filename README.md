@@ -1,11 +1,11 @@
-# IndionInternational.web
-# Hello Everyone
+# IndionInternational.web 
+# Hello Everyone 🖐
 Presenting to you Indion Internation School,
 A Web Development Project by Team Subodh Public School
 
 # Team Members : Ojas Verma, Himanshu Swami, Ritika Nainwaya , Priyanshi Khowal 
 
-# Credits & Sources :
+# 📚 Credits & Sources :
 1. GitHub  : For free website hosting
 2. Unsplash , Pexels, Pixabay : For free high quality stock images
 3. FormSpree : For serverless backend 
@@ -16,4 +16,4 @@ A Web Development Project by Team Subodh Public School
 8. Font Awesome & Remix Icons : For free Vectors and Logo's
 9. Canva : For Graphic Designing
 
-# Notice : Any part of this website should not be reproduced or interpreted without the original owners' consent
+# ✔ Notice : Any part of this website should not be reproduced or interpreted without the original owners' consent
